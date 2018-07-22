@@ -2,7 +2,9 @@ Some basic files to have fun and to do proof on concepts using a Digispark board
 USE AT YOUR OWN RISK - THEY ARE ANNOYING!!!
 
 Main page - http://digistump.com/
+
 Main guide - https://digistump.com/wiki/digispark
+
 Setup guide is here - https://digistump.com/wiki/digispark/tutorials/connecting
 
 Some basic files to have fun and to do proof on concepts using a Digispark board
@@ -10,6 +12,9 @@ Requires Ardiono IDE
 
 NOTES
 ****** DO NOT PLUG IN THE Digispark BEFORE YOU UPLOAD CODE IN THE IDE, IT WILL PROMPT YOU TO PLUG IN THE BOARD
+IDE will prompt with this:
+Running Digispark Uploader...
+Plug in device now... (will timeout in 60 seconds)
 
 - Have yet to get Arduino IDE in Linux to see board, still working on that.
 - Windows is pretty staightforward
