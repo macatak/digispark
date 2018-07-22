@@ -12,9 +12,13 @@ Requires Ardiono IDE
 
 NOTES
 ****** DO NOT PLUG IN THE Digispark BEFORE YOU UPLOAD CODE IN THE IDE, IT WILL PROMPT YOU TO PLUG IN THE BOARD
+
 IDE will prompt with this:
+
 Running Digispark Uploader...
+
 Plug in device now... (will timeout in 60 seconds)
+
 
 - Have yet to get Arduino IDE in Linux to see board, still working on that.
 - Windows is pretty staightforward
