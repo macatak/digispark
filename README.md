@@ -23,7 +23,7 @@ Arduino files
 
 capsLock - turns the CAPS lock on and off at regular intervales  
 MontyPython - prints randon Monty Python quotes  
-poo - prints 'poo' at regualr intervals because thats just funny  
+poo - prints 'poo' at regular intervals because thats just funny  
 rick_ascii_beta - Powershell fun (https://www.nextofwindows.com/powershell-fun-watch-rick-astley-sing-and-dance-never-let-you-down)  
   - needs work but does play it. See comments in code
 
