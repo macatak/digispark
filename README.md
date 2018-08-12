@@ -25,7 +25,7 @@ capsLock - turns the CAPS lock on and off at regular intervales
 MontyPython - prints random Monty Python quotes  
 poo - prints 'poo' at regular intervals because thats just funny  
 openAdminWin - Opens a command window as admin in Windows   
-rick_ascii_beta - Powershell fun (https://www.nextofwindows.com/powershell-fun-watch-rick-astley-sing-and-dance-never-let-you-down)  
+rick_ascii_beta (RickRoll) - Powershell fun (https://www.nextofwindows.com/powershell-fun-watch-rick-astley-sing-and-dance-never-let-you-down)  
   - needs work but does play it. See comments in code
 
 To-Do (hopefully they'll work)  
